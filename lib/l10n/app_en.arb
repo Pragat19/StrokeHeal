@@ -1,0 +1,108 @@
+{
+    "stroke" : "Stroke",
+
+    "stroke_info" : "Stroke Information",
+    "self_evalu"  : "Self Evaluation",
+    "rehabitation": "Rehabilitation",
+    "relax" : "Relaxation",
+    "adv_equip" : "Advance Equipment",
+    "reminder" : "Reminder",
+    "clinic_near" : "Clinic near me",
+    "online_consult" : "Online Consultation",
+    "setting" : "Setting",
+    "contact_us" : "Contact Us",
+    "logout" : "Logout",
+
+    "info_p1" : "       A stroke occurs when the blood supply to part of your brain is interrupted or reduced, depriving brain tissue of oxygen and nutrients. Within minutes, brain cells begin to die.",
+    "info_p2" : "       A stroke is a medical emergency. Prompt treatment is crucial. Early action can minimize brain damage and potential complications.",
+    "info_p3" : "       The good news is that strokes can be treated and prevented, and many few people die of stroke now than in the past.",
+
+    "title1": "Symptoms",
+    "info_p4" : "       Watch for these signs and symptoms if you think you or someone else may be having a stroke. Pay attention to when the signs and symptoms begin. The length of time they have been present can affect your treatment options:",
+    
+    "title2"  : "Trouble with speaking and understanding:",
+    "info_p5" : "       You may experience confusion. You may slur your words or have difficulty understanding speech.",
+    
+    "title3"  : "Paralysis or numbness of the face, arm or leg:",
+    "info_p6" : "       You may develop sudden numbness, weakness or paralysis in your face, arm or leg. This often happens just on one side of your body. Try to raise both your arms over your head at the same time. If one arm begins to fall, you may be having a stroke. Also, one side of your mouth may droop when you try to smile.",
+    
+    "title4"  : "Trouble with seeing in one or both eyes:",
+    "info_p7" : "       You may suddenly have blurred or blackened vision in one or both eyes, or you may see double.",
+    
+    "title5"  : "Headache:",
+    "info_p8" : "       A sudden, severe headache, which may be accompanied by vomiting, dizziness or altered consciousness, may indicate you are having a stroke.",
+    
+    "title6"  : "Trouble with walking:",
+    "info_p9" :"       You may stumble or experience sudden dizziness, loss of balance or loss of coordination.",
+    
+    "title7"  : "When to see a doctor?",
+    "info_p10": "       Seek immediate medical attention if you notice any signs or symptoms of a stroke, even if they seem to fluctuate or disappear. Think \"FAST\" and do the following:",
+    
+    "title8"  : "Face:",
+    "info_p11": "       Ask the person to smile. Does one side of the face droop?",
+    
+    "title9"  : "Arms:",
+    "info_p12": "       Ask the person to raise both arms. Does one arm drift downward? Or is one arm unable to rise up?",
+    
+    "title10" : "Speech:",
+    "info_p13": "       Ask the person to repeat a simple phrase. Is his or her speech slurred or strange?",
+    
+    "title11" : "Time:",
+    "info_p14": "       If you observe any of these signs, call 108 immediately.Call 108 or your local emergency number right away. Do not wait to see if symptoms stop. Every minute counts. The longer a stroke goes untreated, the greater the potential for brain damage and disability.",
+    "info_p15": "       If you are with someone you suspect is having a stroke, watch the person carefully while waiting for emergency assistance.",
+    
+    "title12" : "Causes:",
+    "info_p16": "       A stroke may be caused by a blocked artery (ischemic stroke) or the leaking or bursting of a blood vessel (haemorrhagic stroke). Some people may experience only a temporary disruption of blood flow to the brain (transient ischemic attack, or TIA) that does not cause permanent damage.",
+    
+    "title13" : "Ischemic stroke:",
+    "info_p17": "       About 80 percent of strokes are ischemic strokes. Ischemic strokes occur when the arteries to your brain become narrowed or blocked, causing severely reduced blood flow (ischemia). The most common ischemic strokes include:",
+
+    "title14" : "Thrombotic stroke:",
+    "info_p18" : "       A thrombotic stroke occurs when a blood clot (thrombus) forms in one of the arteries that supply blood to your brain. A clot may be caused by fatty deposits (plaque) that build up in arteries and cause reduced blood flow (atherosclerosis) or other artery conditions.",
+
+    "title15" : "Embolic stroke:",
+    "info_p19": "       An embolic stroke occurs when a blood clot or other debris forms away from your brain — commonly in your heart — and is swept through your bloodstream to lodge in narrower brain arteries. This type of blood clot is called an embolus.",
+
+    "title16" : "Haemorrhagic stroke:",
+    "info_p20": "       Haemorrhagic stroke occurs when a blood vessel in your brain leaks or ruptures. Brain haemorrhage can result from many conditions that affect your blood vessels. These include:",
+    "info_p21": "i) Uncontrolled high blood pressure",
+    "info_p22": "ii) Overtreatment with anticoagulants",
+    "info_p23": "iii) Weak spots in your blood vessel walls",
+    "info_p24": "       A less common cause of haemorrhage is the rupture of an abnormal tangle of thin-walled blood vessels (arteriovenous).",
+
+
+    "solder_flexion" : "SHOULDER FLEXION",
+    "ult1": "Please lie down in a comfortable position.",
+    "ult2": "Hold both your hands together and lift them upwards in a pain-free range.",
+    "ult3" : "Count your repetitions loudly and your breath should not be held.",
+    "ult4" : "Sit in a comfortable position with your back straight.",
+    "ult5" : "Repeat this 10 times.",
+
+    "weight_bearing":"WEIGHT-BEARING ON THE AFFECTED HAND",
+    "ult21": "Please sit down in a comfortable position.",
+    "ult22": "Place your affected hand at the side, as shown in the video.",
+    "ult23" : "Now put your weight on the affected hand your whole-body weight should be on the affected hand.",
+    "ult24" : "Repeat this 10 times.",
+
+    "psychological_support":"Psychological Support",
+    "excersise": "Relaxation Exercise:",
+    "rela_tx1": "For the arm",
+    "rela_tx11": "Make a fist and let go.",
+    "rela_tx12": "Tighten your wrist and let go.",
+    "rela_tx13":"Tighten your elbow and let go.",
+    "rela_tx14":"Tighten your shoulder and let go.",
+
+    "rela_tx2": "For the leg",
+    "rela_tx21": "Point your foot down or pull your foot up and let go.",
+    "rela_tx22": "Tighten the feet and hands, knee and elbow, hips and shoulders and let go in reverse order.",
+
+    "rela_tx3": "For the trunk and head.",
+    "rela_tx31": "Press your head against your support and let go.",
+    "rela_tx32": "Press your shoulders against your support and let go.",
+
+    "rela_tx4": "Deep Breathing Exercises.",
+    "rela_tx41": "Breathe in as long as you can.",
+    "rela_tx42": "Now very slowly breathe out the air."
+    
+    
+}
